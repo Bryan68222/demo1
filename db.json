@@ -12,7 +12,7 @@
 	{ "id": 10, "name": "DODO Minions 1" , "image":"https://public.nftstatic.com/static/nft/res/a95623efbec245429673caaf62ba2e9f.png", "price":39.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
 	{ "id": 11, "name": "DODO Minions 2" , "image":"https://public.nftstatic.com/static/nft/res/ab21264826f4413288b204d49b05c19e.png", "price":12 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
 	{ "id": 12, "name": "DODO Minions 3" , "image":"https://public.nftstatic.com/static/nft/res/fdd46441434648c7b2cb780ed512aa5b.png", "price":14.1 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
-	{ "id": 12, "name": "DODO Minions 4" , "image":"https://public.nftstatic.com/static/nft/res/a7847428105549c0bc48699461aa6fed.png", "price":54.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
+	{ "id": 13, "name": "DODO Minions 4" , "image":"https://public.nftstatic.com/static/nft/res/a7847428105549c0bc48699461aa6fed.png", "price":54.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
 	{ "id": 14, "name": "Nyaching Tiger - Shiny Double Happiness" , "image":"https://public.nftstatic.com/static/nft/zipped/265c39d39b464a52ba5625fad1332558_zipped.jpeg", "price":98 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
 	{ "id": 15, "name": "Nyaching Tiger - Lucky" , "image":"https://public.nftstatic.com/static/nft/zipped/f426f13c332d4a7a94847f70e82d24de_zipped.jpeg", "price":500 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
 	{ "id": 16, "name": "Nyaching Tiger - Golden Double" , "image":"https://public.nftstatic.com/static/nft/zipped/0ccfdec779e64cebbb9ee53c2d5227e2_zipped.jpeg", "price":400 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
@@ -22,6 +22,6 @@
 	{ "id": 20, "name": "SATURN 6/100" , "image":"https://public.nftstatic.com/static/nft/zipped/88fa245759314d55b36b5269d3d93263_zipped.jpeg", "price":9.56 , "coin": "BUSD" ,"collection_name":"playgarden" },
 	{ "id": 21, "name": "FAT APE #81▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/a2e5d3673ab5455ab5cf1800c8d95355_zipped.png", "price":50 , "coin": "BUSD" ,"collection_name":"NFT_LION" },
 	{ "id": 22, "name": "FAT APE #34▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/cef1b49c8105478688c0cc8c76274880_zipped.png", "price":79 , "coin": "BUSD" ,"collection_name":"NFT_LION" },
-	{ "id": 23, "name": "RAINBOW APE #119▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/45469d26063e4ba39eab7965560a8af4_zipped.png", "price":11 , "coin": "BUSD" ,"collection_name":"NFT_LION" },
+	{ "id": 23, "name": "RAINBOW APE #119▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/45469d26063e4ba39eab7965560a8af4_zipped.png", "price":11 , "coin": "BUSD" ,"collection_name":"NFT_LION" }
   ]
 }
